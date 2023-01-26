@@ -2,10 +2,10 @@
 ![Imagen del proyecto](https://github.com/OjedaAlejandro/app_registros-/blob/fb62333a623d416c5ddc92a28e61a0875a65631f/imagen_aplicaci%C3%B3n.png)
 
 ## Ejemplo en vivo
-- [URL-de-este-proyecto](https://reservas-5c620.web.app/)
+- [URL-del-proyecto](https://reservas-5c620.web.app/)
 
 ## Descripción 📑
-Aplicación web dinamica desarrollada con angular,Nodejs,MongoDB y boostraps. Esta aplicacón permite tener un registro de reservas, en la cual vamos a poder agragar las recervas realizadas por los clientes y ver dichos registros en una tabla.
+Aplicación web dinamica desarrollada con angular,Nodejs,MongoDB y boostraps. Esta aplicación permite tener un registro de reservas, en la cual vamos a poder agragar las recervas realizadas por los clientes y ver dichos registros en una tabla.
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
