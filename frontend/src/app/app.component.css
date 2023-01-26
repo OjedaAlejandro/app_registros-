@@ -1,0 +1,87 @@
+
+body{
+    background-image: url(../assets/comida_imagen.webp);
+    background-size: 100%;
+    width: 100%;
+    
+    font-family:'Trebuchet MS', sans-serif;
+}
+@media screen and (min-width:750px){ 
+    body{
+        height: 100vh;
+    }
+}
+.contenedor-padre{
+    padding-top:5vh;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-bottom: 4vh;
+    
+}
+label{
+    color: white;
+    font-weight:600;
+}
+
+span{
+    color: red;
+}
+.cont-tabla{
+   margin-left: auto;
+   margin-right: auto;
+    width: 100%;
+    padding-left: 5vw;
+}
+
+.button-delate,.button-edit{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button-delate{
+    color: red;
+    
+}
+
+.button-edit{
+    color: aqua;
+}
+
+
+
+@media screen and (max-width:600px){ /*Estos estilos se van a aplicar en pantallas que tengan un ancho maximo de 600px*/
+    .table{/*Se le van a quitar los bordes a la tabla*/
+        border: 0px;
+    }
+    .table caption{ /*El tamaño de fuente del titulo se va a disminuir a 22px*/
+        font-size: 22px;
+    }
+    .table thead{
+        display: none; /*Se van a ocultar los encabezados de la tabla*/
+    }
+    .table tr{
+        margin-bottom: 18px;
+        border-bottom: 4px solid #ddd;
+        display: block;
+    }
+
+    .table th,table td{
+        font-size: 12px;
+    }
+    .table td{
+        display: block;
+        border: 1px solid #ddd;
+        text-align: right;
+    }
+    .tabletd:last-child{
+        border: 0px;
+    }
+    .table td::before{
+        content: attr(data-label);/*Va mostrar el texto que añadimos en la propiedad data-label*/
+        font-weight: bold; 
+        text-transform: uppercase;/*Va pasar el texto a mayusculas*/
+        float: left;/*Va aliñar este texto a la izquierda*/
+    }
+}
