@@ -1,5 +1,5 @@
 # Aplicación web para registrar reservas de restaurante.
-![Imagen del proyecto](https://github.com/OjedaAlejandro/ConsejosParaUniversitarios/blob/907e8afb091fd2b3ad6cdff63b4e1148bc17265e/assets/pagina%20consejos%20para%20universitarios.png)
+![Imagen del proyecto](https://github.com/OjedaAlejandro/app_registros-/blob/04f41afef47ef6598e07710a3470f58ae9cdb76f/app%20restaurante.png)
 
 ## Ejemplo en vivo
 - [URL-de-este-proyecto](https://consejos-para-universitarios.web.app/)
