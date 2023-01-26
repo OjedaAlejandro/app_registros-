@@ -1,4 +1,4 @@
-#Aplicación de reservas para un restautante
+# Consejos para Universitarios
 ![Imagen del proyecto](https://github.com/OjedaAlejandro/ConsejosParaUniversitarios/blob/907e8afb091fd2b3ad6cdff63b4e1148bc17265e/assets/pagina%20consejos%20para%20universitarios.png)
 
 ## Ejemplo en vivo
