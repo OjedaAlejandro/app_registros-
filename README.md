@@ -5,9 +5,7 @@
 - [URL-de-este-proyecto](https://reservas-5c620.web.app/)
 
 ## Descripción 📑
-Este proyecto es una pagina web estatica en la cual podras encontrar información sobre como es la vida universitaria y recomendaciones para poder 
-disfrutar esta etapa al maximo.
-
+Aplicación web dinamica desarrollada con angular,Nodejs,MongoDB y boostraps. Esta aplicacón permite tener un registro de reservas, en la cual vamos a poder agragar las recervas realizadas por los clientes y ver dichos registros en una tabla.
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
