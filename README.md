@@ -2,7 +2,7 @@
 ![Imagen del proyecto](https://github.com/OjedaAlejandro/app_registros-/blob/fb62333a623d416c5ddc92a28e61a0875a65631f/imagen_aplicaci%C3%B3n.png)
 
 ## Ejemplo en vivo
-- [URL-de-este-proyecto](https://consejos-para-universitarios.web.app/)
+- [URL-de-este-proyecto](https://reservas-5c620.web.app/)
 
 ## Descripción 📑
 Este proyecto es una pagina web estatica en la cual podras encontrar información sobre como es la vida universitaria y recomendaciones para poder 
